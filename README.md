@@ -8,3 +8,4 @@ Read more at [omarchy.org](https://omarchy.org).
 
 Omarchy is released under the [MIT License](https://opensource.org/licenses/MIT).
 
+Turn a fresh Arch installation into a fully-configured, beautiful, and modern web development system based on Hyprland by running a single command. That's the one-line pitch for Omarchy (like it was for Omakub). No need to write bespoke configs for every essential tool 
